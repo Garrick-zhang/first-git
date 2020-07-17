@@ -1,6 +1,7 @@
-#include<iostream>
-using namespace std；
+#include <iostream>
+using namespace std;
 int main()
- {
- cout<<"adsa"；
- }
+{
+    cout << "Hello, world!" << endl;
+    return 0;
+}
